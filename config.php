@@ -1,11 +1,12 @@
 <?php
+
 //Define DB Parms
 define("DB_HOST", "localhost");
-define("DB_USER", "root");
-define("DB_PASS", "");
+define("DB_USER", "admin");
+define("DB_PASS", "admin");
 define("DB_NAME", "shareboard");
 
 //Define URL
 define("ROOT_PATH", "/");
-define("ROOT_URL", "/shareboard/OOP%20PHP%20COURSE/OOP-PHP-Course/Shareboard-project/index.php");
+define("ROOT_URL", "http://localhost/php.dev/shareboard");
  ?>
